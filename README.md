@@ -1,5 +1,5 @@
-Software engineer & recovering mathematician. I work at SoundCloud, predominantly on the iOS application.
+Software engineer, amateur comedian & recovering mathematician. I work at SoundCloud.
 
-I like category theory, programming languages & types. I'm currently taking the Stanford Compilers course on edX, as well as working through [Crafting Interpreters](http://craftinginterpreters.com/), [but in Rust rather than Java](https://github.com/matthew-healy/crafting-interpreters-rust).
+I like category theory, programming languages & types. I'm currently working through the second half of [Crafting Interpreters](http://craftinginterpreters.com/), having completed the first half [in Rust rather than Java](https://github.com/matthew-healy/crafting-interpreters-rust).
 
-My pronouns are he or they. You choose. 💁‍♀️
+My pronouns are they or he. You choose. 💁‍♀️
