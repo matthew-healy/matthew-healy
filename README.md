@@ -1,5 +1,5 @@
-Software engineer, amateur comedian & recovering mathematician. I work at SoundCloud.
+Software engineer, amateur comedian & recovering mathematician. I currently work in the authentication domain at SoundCloud.
 
-I like programming languages, category theory & types. I'm currently working through Benjamin Pierce's Types & Programming Languages and re-reading Tom Leinster's Basic Category Theory, as well as trying to deepen my Haskell knowledge. That said, I get distracted easily by shiny things (ooh, Lean looks cool), so who knows how long this will be valid for.
+I like programming languages, category theory & types. I'm interested in issues surrounding the ergonomics of complex type systems, and I'm currently trying to teach myself enough programming langauge theory to contribute work in that area.
 
 My pronouns are they/them.
