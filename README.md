@@ -10,4 +10,4 @@ My pronouns are they/them.
 - Algebra-Driven Design (Sandy Maguire)
 - An Introduction to Proof Theory (Paolo Mancosu, Sergio Galvan & Richard Zach)
 - Types and Programming Languages (Benjamin C. Pierce)
-- Scala with Scals (Noel Welsh & Dave Gurnell)
+- Scala with Cats (Noel Welsh & Dave Gurnell)
