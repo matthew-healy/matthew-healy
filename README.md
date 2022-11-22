@@ -1,1 +1,1 @@
-Amateur comedian & accidental algerbraist. They/them.
+Amateur comedian & software clown. They/them.
